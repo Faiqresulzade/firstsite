@@ -1,0 +1,42 @@
+.Head{
+height: 755px;
+margin-left: 250px;
+margin-right: 250px;
+margin-top: 30px;
+display: flex;
+justify-content: space-between
+}
+.headOfLeft{
+    height: 50px;
+    color: darkolivegreen;
+    display: flex;
+    justify-content: space-between;
+}
+.FootOfLeft, .BodyOfLeft {
+    height:350px ;
+}
+.left{
+    width: 55%;
+}
+.headOfLeft h1 {
+   font-size: 19px;
+
+}
+.right{
+    width: 40%;
+}
+.bodyofright{
+    height: 200px;
+    margin-top: 30px;
+}
+.right h4{
+    color: blue;
+}
+.Foot{
+    border: 1px solid black;
+    margin-left: 250px;
+    height: 300px;
+}
+.left h3{
+color: darkorange;
+}
